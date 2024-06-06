@@ -1,7 +1,9 @@
-Firebase Chat App
+
 Welcome to the repository for the Firebase Chat App! This application offers real-time chat capabilities using Firebase as the backend. Below is a summary of the key files and their functionalities:
 
 Activity Files
+
+
 ChatActivity.java: Manages individual chat conversations.
 LoginOtpActivity.java: Handles user authentication via OTP.
 LoginPhoneNumberActivity.java: Manages user login through phone numbers.
